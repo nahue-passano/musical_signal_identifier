@@ -1,2 +1,1 @@
-# musical_signal_identifier
-Musical signal identifier with cross-correlation
+# Musical signal identifier software with cross-correlation
